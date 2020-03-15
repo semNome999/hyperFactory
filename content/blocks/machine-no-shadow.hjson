@@ -4,4 +4,9 @@ type: Wall
 
 size: 2
 category: defense
-destructible: false
+health: 5000
+research: copper-wall
+
+requirements: [
+	copper/50
+]
