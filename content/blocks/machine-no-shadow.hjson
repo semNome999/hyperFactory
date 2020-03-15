@@ -3,3 +3,5 @@ description: "cool"
 type: Wall
 
 size: 2
+category: defense
+destructible: false
