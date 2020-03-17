@@ -5,6 +5,6 @@ speedMultiplier: 1.5
 itemDrop: hyperanium
 
 playerUnmineable: true
-oreDefult: true
+oreDefault: true
 oreScale: 20
 oreThreshold: 0.4
